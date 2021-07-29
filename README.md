@@ -6,3 +6,5 @@ Roraima foi o Estado escolhido pelos participantes do grupo, pois segundo  as pe
 
 Portanto neste trabalho utilizaremos o algoritmo A* para nos ajudar a reconhecer melhores rotas de caminho para que a taxa de vacinação seja mais alta, auxiliando assim, os moradores desta região. Com esta proposta o algoritmo A* será capaz de identificar a melhor solução para a problemática, nos dando a opção mais ótima e mais assertiva para a população de Roraima.
 
+Mapa da região do estado de Roraima
+![Mapa](/Downloads/Mapa-Roraima.png)
